@@ -1,0 +1,64 @@
+[24-Mar-2024 12:06:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/orgearlymart/public_html/config/mercadopago.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/mercadopago.php on line 5
+[24-Mar-2024 12:06:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/orgearlymart/public_html/config/toyyibpay.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/toyyibpay.php on line 5
+[24-Mar-2024 12:06:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/orgearlymart/public_html/config/flutterwave.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/flutterwave.php on line 18
+[24-Mar-2024 12:06:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/orgearlymart/public_html/config/paystack.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/paystack.php on line 18
+[24-Mar-2024 12:06:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/orgearlymart/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/services.php on line 18
+[24-Mar-2024 12:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/orgearlymart/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/hashing.php on line 32
+[24-Mar-2024 12:07:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/orgearlymart/public_html/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/logging.php on line 19
+[24-Mar-2024 12:07:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/orgearlymart/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/session.php on line 21
+[24-Mar-2024 12:07:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/orgearlymart/public_html/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/sanctum.php on line 16
+[24-Mar-2024 12:07:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/orgearlymart/public_html/config/nagad.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/nagad.php on line 4
+[24-Mar-2024 12:07:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/orgearlymart/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/mail.php on line 19
+[24-Mar-2024 12:07:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/orgearlymart/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/queue.php on line 16
+[24-Mar-2024 12:07:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/orgearlymart/public_html/config/laravel-payku.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/laravel-payku.php on line 16
+[24-Mar-2024 12:07:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/orgearlymart/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/view.php on line 17
+[24-Mar-2024 12:07:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/orgearlymart/public_html/config/pdf.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/pdf.php on line 11
+[24-Mar-2024 12:07:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/orgearlymart/public_html/config/rave.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/orgearlymart/public_html/config/rave.php on line 18
